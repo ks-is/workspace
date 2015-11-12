@@ -11,7 +11,7 @@ The Hades-CTF-Scoreboard is a version like [WeChall](https://www.wechall.net/) t
 
 __Contributors:__ 
 
-Thong Nguyen ([@hades](https://www.facebook.com/57b5536fe3f256bb7ce318d48df528ff))
+Thong ([@hades](https://www.facebook.com/57b5536fe3f256bb7ce318d48df528ff))
 
 Toan ([@hardwork](https://github.com/toan-ksis)) 
 
