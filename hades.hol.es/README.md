@@ -7,9 +7,9 @@
 \_| |_/\__,_|\__,_|\___||___/\____/ \_/ \_|   \____/ \___\___/|_|  \___|_.__/ \___/ \__,_|_|  \__,_|
                                      </pre>
 ============================================================================
-The Hades-CTF-Scoreboard is a version like [Wechall](wechall.net) to auto update scoreboard of members.
+The Hades-CTF-Scoreboard is a version like [WeChall](https://www.wechall.net/) to auto update scoreboard of members.
 
-__Contributors__: 
+__Contributors:__ 
 
 Thong Nguyen ([@hades](https://www.facebook.com/57b5536fe3f256bb7ce318d48df528ff))
 
@@ -23,6 +23,6 @@ __Installation tips:__
 
 __Supported Platforms:__ PHP 5.4.x & MySQL 4.4.x
 
-__Screen__: 
+__Screen:__ 
 
 ![1](img/1.png)
