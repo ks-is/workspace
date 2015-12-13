@@ -4,7 +4,7 @@
 * Về thời gian: không quá 15 giờ làm việc cho mỗi mini-project. VD: làm xong mất 1 tuần, mỗi ngày giành ra 2 giờ, thời gian làm việc là xấp xỉ 14 giờ.
 * Về độ khó: tương ứng với thời gian làm việc, hiện tại nên ở mức độ cơ bản nhất.
 
-### Lợi ích:
+### Lợi ích
 
 * Bạn có thể thấy được phần nào nội dung của lĩnh vực đang quan tâm.
 * Bạn có thể tự chọn và thực hiện trong một thời gian cụ thể, cùng với sự giúp đỡ, hướng dẫn của các thành viên trong nhóm.
