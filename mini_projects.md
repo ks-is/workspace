@@ -6,10 +6,10 @@
 
 ### Lợi ích:
 
- * Bạn có thể thấy được phần nào nội dung của lĩnh vực đang quan tâm.
- * Bạn có thể tự chọn và thực hiện trong một thời gian cụ thể, cùng với sự giúp đỡ, hướng dẫn của các thành viên trong nhóm.
- * Bạn có thể trình bày nó ở một trong các buổi meet-up.
- * Bạn có thể dùng lại nó ở các Bài tập lớn, Đồ án, .. cho việc học ở lớp.
+* Bạn có thể thấy được phần nào nội dung của lĩnh vực đang quan tâm.
+* Bạn có thể tự chọn và thực hiện trong một thời gian cụ thể, cùng với sự giúp đỡ, hướng dẫn của các thành viên trong nhóm.
+* Bạn có thể trình bày nó ở một trong các buổi meet-up.
+* Bạn có thể dùng lại nó ở các Bài tập lớn, Đồ án, .. cho việc học ở lớp.
 
 ### Một ví dụ
 
