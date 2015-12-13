@@ -15,7 +15,7 @@
 
 * Lĩnh vực: `Điều tra số`
 
-* Tên mini-project: **Phân tích thông tin trình duyệt FireFox phục vụ điều tra số**
+* Tên mini-project: Phân tích thông tin trình duyệt FireFox phục vụ điều tra số
 
 * Mô tả:
 	* Cơ chế bảo vệ thông tin người dùng của FireFox, hướng khai thác
