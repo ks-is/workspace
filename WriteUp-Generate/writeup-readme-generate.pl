@@ -40,7 +40,7 @@ $readme .= "| ".clear($category)." | ".clear($point)." |\n\n";
 for my $item (@arr) {
 	$readme .= clear($item)."\n";
 }
-$readme .= "\n## WriteUp\n\n";
+$readme .= "\n#### WriteUp\n\n";
 $readme .= "(TODO)\n";
 
 # Save to README.md
