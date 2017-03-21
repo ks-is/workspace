@@ -35,6 +35,7 @@ sub clear {
 # Get CTF title.
 my $ctf_title = $arr[0]; shift @arr;
 my $ctf_title_dir = replace($ctf_title, " ", "-");
+$ctf_title_dir = clear($ctf_title_dir);
 system("mkdir -p $ctf_title_dir");
 print "[+] Create folder '$ctf_title_dir'\n";
 $readme_ctf .= "## $ctf_title\n\n";

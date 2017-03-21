@@ -21,7 +21,7 @@
 **WriteUp Generate Toolkit** là bộ công cụ giúp generate đề thi CTF tự động giúp cho việc lưu đề CTF dễ dàng hơn, thao tác nhanh hơn thao tác bằng tay. <br>
 Bộ công cụ gồm 2 phần là [Writeup tree generate](#writeup-tree-generate) và [Writeup readme generate](#writeup-readme-generate), trong đó:
 * **WriteUp tree generate**: hỗ trợ việc generate cây thư mục để lưu đề CTF.
-* **WriteUp readme generate**: hỗ trỡ việc generate README.md, chuyển từ 1 file raw-text thành 1 file với form dễ nhìn hơn của challenge CTF. 
+* **WriteUp readme generate**: hỗ trỡ việc generate README.md, chuyển từ 1 file raw-text thành 1 file với form dễ nhìn hơn của challenge CTF.
 
 <a name="Changelog"></a>
 ### 2. Changelog
@@ -30,7 +30,7 @@ Bộ công cụ gồm 2 phần là [Writeup tree generate](#writeup-tree-generat
 **Operating System**: Gentoo 4.5.1 x86_64 <br>
 **Perl**: Perl 5, version 5.24.1. 
 
-[21/03/2017] Update ver0.01:
+**[21/03/2017]** Update ver0.01:
 * Nothing ..
 
 <a name="writeup-tree-generate"></a>
